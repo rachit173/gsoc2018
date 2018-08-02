@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## MRPT Web Framework
+My Work briefly
+* Implemented a C++ websocket server and a RPC handler capable of publish/subscribe mechanism.
+  The link to the C++ library [mrpt-web](https://github.com/rachit173/mrpt-web).
+* Created a client side JavaScript Library for handling the websocket communication. Also provides 2d, 3d visualisation modules
+and laid the structure of library for future development of modules.
 
-You can use the [editor on GitHub](https://github.com/rachit173/gsoc2018/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+#### Link to Codes
+* MRPT-web (C++ library) -> [main-repo](https://github.com/MRPT/mrpt-web),[my-repo](https://github.com/rachit173/mrpt-web)
+* MRPT-web-js (JS library) -> [main-repo](https://github.com/MRPT/mrpt-web-js),[my-repo](https://github.com/rachit173/mrpt-web-js)
+* rawlog-web-ui (app built on the framework)(https://github.com/MRPT/rawlog-web-ui),[my-repo](https://github.com/rachit173/rawlog-web-ui)
+the main repos have been created completely from my repo
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* MRPT (added schema based serialization abstract class): will add link to PR for serialization code here
 
-### Markdown
+#### Merge Status
+will add later
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### What is done
+*
+*
+*
 
-```markdown
-Syntax highlighted code block
+#### Future development
+The structure and core module have been implemented during the gsoc period. A lot of work can be done to extend functionality and simplicity of the library. Some of the work which would be direct extension to the current state is,
+*
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rachit173/gsoc2018/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+##### Contact
+rachittibrewal@gmail.com
